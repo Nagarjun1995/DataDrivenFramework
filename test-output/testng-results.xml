@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="6" total="9" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23572" started-at="2021-03-20T15:31:42Z" finished-at="2021-03-20T15:32:05Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23572" started-at="2021-03-20T15:31:42Z" finished-at="2021-03-20T15:32:05Z">
+      <class name="com.mindtree.testcases.CustomerLogin">
+        <test-method status="PASS" signature="customerLogin()[pri:0, instance:com.mindtree.testcases.CustomerLogin@462d5aee]" name="customerLogin" duration-ms="6643" started-at="2021-03-20T15:31:59Z" finished-at="2021-03-20T15:32:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerLogin -->
+      </class> <!-- com.mindtree.testcases.CustomerLogin -->
+      <class name="com.mindtree.base.TestBase">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.mindtree.base.TestBase@491cc5c9]" name="setUp" is-config="true" duration-ms="6857" started-at="2021-03-20T15:31:35Z" finished-at="2021-03-20T15:31:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mindtree.base.TestBase@491cc5c9]" name="tearDown" is-config="true" duration-ms="620" started-at="2021-03-20T15:32:05Z" finished-at="2021-03-20T15:32:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mindtree.base.TestBase -->
+      <class name="com.mindtree.testcases.OpenAccount">
+        <test-method status="PASS" signature="openAccount()[pri:0, instance:com.mindtree.testcases.OpenAccount@6a1aab78]" name="openAccount" duration-ms="7765" started-at="2021-03-20T15:31:51Z" finished-at="2021-03-20T15:31:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAccount -->
+      </class> <!-- com.mindtree.testcases.OpenAccount -->
+      <class name="com.mindtree.testcases.AddCustomer">
+        <test-method status="PASS" signature="addCustomer()[pri:0, instance:com.mindtree.testcases.AddCustomer@74ad1f1f]" name="addCustomer" duration-ms="8614" started-at="2021-03-20T15:31:42Z" finished-at="2021-03-20T15:31:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+      </class> <!-- com.mindtree.testcases.AddCustomer -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
