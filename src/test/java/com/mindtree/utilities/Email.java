@@ -17,7 +17,7 @@ import javax.mail.internet.MimeMultipart;
 
 public class Email {
 
-	 
+	 //Update
 
     //public static void sendMail(String mailServer, String from,String username, String password,String port, String[] to, String subject, String messageBody, String attachmentPath, String attachmentName) throws MessagingException, AddressException
 
